@@ -1,8 +1,16 @@
-# React + Vite
+## Tenzies Dice Game 🎲
+Play Tenzies — a fun and addictive dice game where you try to match all the dice values! Hold and roll dice until every die shows the same number. Built with React and featuring confetti animations for the win!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+👉 **Live Demo:** [tenziesdicesgame.netlify.app](https://tenziesdicesgame.netlify.app/)
 
-Currently, two official plugins are available:
+### Features:
+- Hold dice to keep their value while re-rolling the rest.
+- Confetti animation when you win the game.
+- Interactive and intuitive UI.
+- Built using React hooks, including `useState` and `useEffect`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### How to Play:
+1. Roll the dice.
+2. Click on dice to hold their values.
+3. Keep rolling until all dice match.
+4. Celebrate your win with confetti! 🎉
